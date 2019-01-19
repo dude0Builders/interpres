@@ -4,14 +4,14 @@ Speech recognition application
 ## Build
 ### Build native app using 
 
-```shell
+```bash
 gradlew jfxNative
 ```
 Builds and generates a native executable file in `\build\jfx\native`
 
 
 ### Run 
-```shell
+```bash
 gradlew jfxRun
 ```
 Builds and Runs the app.
